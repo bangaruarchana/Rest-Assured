@@ -1,0 +1,10 @@
+package Conditional_statement;
+
+public class positive {
+public static void main(String[] args) {
+	int n= 5;
+	if(n>0) {
+		System.out.println("Given Number is positive");
+	}
+}
+}
