@@ -1,0 +1,7 @@
+To Get the table row data use these steps
+
+even position data fetching data
+//td[position() mod 2=0]
+
+odd position data fetching
+//td[position() mod 2=1]
